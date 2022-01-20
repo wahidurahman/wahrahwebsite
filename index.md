@@ -2,9 +2,9 @@
 
 I am a third-year student @ubc
 
-### Markdown
+### Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I have worked on 
 
 ```markdown
 Syntax highlighted code block
